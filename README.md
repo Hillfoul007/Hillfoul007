@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Fitness AI**
 
-- 👨‍💻 Visit my portfolio website at [(https://chamankataria.netlify.app/)]((https://chamankataria.netlify.app/))
+- 👨‍💻 Visit my portfolio website at [chamankataria.netlify.app](https://chamankataria.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sunflower110001](https://medium.com/@sunflower110001)
 
